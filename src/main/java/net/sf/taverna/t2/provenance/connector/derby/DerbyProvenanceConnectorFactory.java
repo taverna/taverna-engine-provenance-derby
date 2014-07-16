@@ -3,6 +3,7 @@ package net.sf.taverna.t2.provenance.connector.derby;
 import net.sf.taverna.t2.provenance.ProvenanceConnectorFactory;
 import net.sf.taverna.t2.provenance.api.ProvenanceConnectorType;
 import net.sf.taverna.t2.provenance.connector.ProvenanceConnector;
+//July 2014 XMLSerializer removed so this will not build
 import net.sf.taverna.t2.workflowmodel.serialization.xml.XMLSerializer;
 import uk.org.taverna.configuration.database.DatabaseManager;
 

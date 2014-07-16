@@ -30,6 +30,7 @@ import net.sf.taverna.t2.provenance.connector.ProvenanceConnector;
 import net.sf.taverna.t2.provenance.item.ProvenanceItem;
 import net.sf.taverna.t2.provenance.lineageservice.derby.DerbyProvenanceQuery;
 import net.sf.taverna.t2.provenance.lineageservice.derby.DerbyProvenanceWriter;
+//July 2014 XMLSerializer removed so this will not build
 import net.sf.taverna.t2.workflowmodel.serialization.xml.XMLSerializer;
 
 import org.apache.log4j.Logger;
